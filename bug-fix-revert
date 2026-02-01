@@ -1,0 +1,14 @@
+curl https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls
+
+[
+  {
+    "state": "open",
+    "head": {
+      "ref": "bug-fix-revert",
+      "repo": {
+        "full_name": "ggautam8/mcino-Introduction-to-Git-and-GitHub",
+        "fork": true
+      }
+    }
+  }
+]
